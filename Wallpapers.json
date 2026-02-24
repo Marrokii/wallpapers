@@ -1,29 +1,20 @@
 {
-  "categories": ["All", "Space", "Nature", "Abstract", "Minimal", "Architecture"],
   "wallpapers": [
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440000",
-      "name": "Deep Space",
-      "author": "Cosmos Visuals",
-      "category": "Space",
-      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-      "description": "A breathtaking view of the distant nebula and stars."
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440001",
-      "name": "Mountain Peak",
-      "author": "Nature Shots",
-      "category": "Nature",
-      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-      "description": "High altitude peaks covered in morning mist."
-    },
-    {
-      "id": "550e8400-e29b-41d4-a716-446655440002",
-      "name": "Neon Lines",
-      "author": "Digital Art",
-      "category": "Abstract",
-      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-      "description": "Vibrant neon geometric patterns on a dark background."
-    }
+    { "id": "w1", "title": "Soft Petals", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Flowers", "fileSize": "1.2 MB", "isTrending": true },
+    { "id": "w2", "title": "Beige Minimal", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Beige", "fileSize": "0.8 MB", "isTrending": true },
+    { "id": "w3", "title": "Anime Sky", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Anime", "fileSize": "2.1 MB", "isTrending": false },
+    { "id": "w4", "title": "Dark Forest", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Dark", "fileSize": "1.5 MB", "isTrending": true },
+    { "id": "w5", "title": "Golden Butterfly", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Butterfly", "fileSize": "1.1 MB", "isTrending": false },
+    { "id": "w6", "title": "Mountain Mist", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Nature", "fileSize": "1.9 MB", "isTrending": true },
+    { "id": "w7", "title": "Aesthetic Room", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Aesthetic", "fileSize": "1.4 MB", "isTrending": false },
+    { "id": "w8", "title": "Creamy Waves", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Beige", "fileSize": "0.9 MB", "isTrending": false },
+    { "id": "w9", "title": "Spring Bloom", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Flowers", "fileSize": "1.3 MB", "isTrending": true },
+    { "id": "w10", "title": "Zen Garden", "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM", "category": "Nature", "fileSize": "2.0 MB", "isTrending": false }
+  ],
+  "stickers": [
+    { "id": "s1", "title": "Cute Cat", "imageUrl": "https://cdn-icons-png.flaticon.com/512/616/616408.png", "fileSize": "200 KB" },
+    { "id": "s2", "title": "Coffee Cup", "imageUrl": "https://cdn-icons-png.flaticon.com/512/924/924514.png", "fileSize": "150 KB" },
+    { "id": "s3", "title": "Sun Flower", "imageUrl": "https://cdn-icons-png.flaticon.com/512/869/869869.png", "fileSize": "180 KB" },
+    { "id": "s4", "title": "Paper Plane", "imageUrl": "https://cdn-icons-png.flaticon.com/512/739/739249.png", "fileSize": "120 KB" }
   ]
 }
