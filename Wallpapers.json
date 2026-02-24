@@ -1,27 +1,29 @@
-[
-  {
-    "id": "1",
-    "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-    "category": "Nature"
-  },
-  {
-    "id": "2",
-    "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-    "category": "Cars"
-  },
-  {
-    "id": "3",
-    "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-    "category": "Nature"
-  },
-  {
-    "id": "4",
-    "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-    "category": "Cars"
-  },
-  {
-    "id": "5",
-    "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
-    "category": "Tech"
-  }
-]
+{
+  "categories": ["All", "Space", "Nature", "Abstract", "Minimal", "Architecture"],
+  "wallpapers": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "name": "Deep Space",
+      "author": "Cosmos Visuals",
+      "category": "Space",
+      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
+      "description": "A breathtaking view of the distant nebula and stars."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "name": "Mountain Peak",
+      "author": "Nature Shots",
+      "category": "Nature",
+      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
+      "description": "High altitude peaks covered in morning mist."
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "name": "Neon Lines",
+      "author": "Digital Art",
+      "category": "Abstract",
+      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvenoGYuY7wSoXA7vyf2hR5xyuGeFEqfkd2JKhe4AUhsETHsOMkClP2G-yFVyU9quyWqr3V-gS3rY6b2s-ZIMnxzfdkDpy7rxv455fNuGw7q-CugLZ0OfzcG8Cx5rIUkLGVklK4_CdkaPA66APECXXj8pcDTZwFJeKpe0wLRj1RrYaY99ANpfHqE988MKM",
+      "description": "Vibrant neon geometric patterns on a dark background."
+    }
+  ]
+}
