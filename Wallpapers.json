@@ -7,18 +7,18 @@
     },
     {
       "id": "blush",
-      "name": "Blush",
-      "icon": "heart.fill"
+      "name": "OSHI NO 1",
+      "icon": "square.grid.2x2.fill"
     },
     {
       "id": "minimal",
-      "name": "Minimal",
-      "icon": "circle.fill"
+      "name": "OSHI NO 2",
+      "icon": "square.grid.2x2.fill"
     },
     {
       "id": "aesthetic",
-      "name": "Aesthetic",
-      "icon": "sparkles"
+      "name": "OSHI NO 3",
+      "icon": "square.grid.2x2.fill"
     }
   ],
   "wallpapers": [
